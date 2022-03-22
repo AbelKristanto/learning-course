@@ -10,3 +10,25 @@
 4. [Modul Materi Ketiga](#modul3)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
+
+<h1>Pembukaan</h1>
+
+Sebelum kamu memulai materi yang akan dikerjakan hari ini, diharapkan kamu mengakses Jupyter Notebook ya! 
+
+<i class="fas fa-spinner fa-spin"></i>
+
+Adapun tutorial dalam installasi jupyter notebook:
+
+1. Install Anaconda, jika sudah open as administrator
+2. Update pip dengan: 
+```cmd
+python -m pip install --upgrade pip```
+4. Install jupyter notebook: 
+```cmd
+python -m pip install jupyter
+```
+5. Buka dengan mengetikan: 
+```cmd
+jupyter notebook```
+
+Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/belajarbersamakohkris) dan pilih bagian New Notebook ya! &#9996
