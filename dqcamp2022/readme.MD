@@ -11,6 +11,8 @@
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
+Oiya, jika kamu melihat dashboard yang kemarin ditampilkan bisa akses [disini](https://app-dashml.herokuapp.com) ya.
+
 <h1>Pembukaan</h1>
 
 Sebelum kamu memulai materi yang akan dikerjakan hari ini, diharapkan kamu mengakses Jupyter Notebook ya! 
