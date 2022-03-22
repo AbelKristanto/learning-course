@@ -7,6 +7,6 @@
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/dqcamp2022/day-1/Kondisional_dan_Perulangan_bahasa_Python.ipynb">Kondisional dan Perulangan bahasa Python</a></li>
 </ol>
 
-Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in)
+Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen dengan simbol download di pojok kanan ya!
 
 [Kembali](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/readme.MD)
