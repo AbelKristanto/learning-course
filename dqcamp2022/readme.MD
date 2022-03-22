@@ -1,7 +1,7 @@
 <h1>Daftar Pustaka</h1>
 <!--Penulisan @abelkristanto-->
 
-Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abelkristanto/). <p>Disini kita akan belajar terkait topik materi yang python dan SQL yang dapat bermanfaat untuk teman-teman pelajari.</p>
+Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abelkristanto/). Disini kita akan belajar terkait topik materi yang python dan SQL yang dapat bermanfaat untuk teman-teman pelajari.
 <p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan basic programming dan study case untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
