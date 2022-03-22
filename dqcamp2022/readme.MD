@@ -38,4 +38,5 @@ python -m pip install jupyter
 jupyter notebook
 ```
 
-<p>Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/belajarbersamakohkris) dan pilih bagian New Notebook ya! &#9996</p>
+Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/belajarbersamakohkris) 
+<p>Pilih bagian New Notebook ya! &#9996</p>
