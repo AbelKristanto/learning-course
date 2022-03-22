@@ -5,9 +5,9 @@
 <p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan dengan bahasa Python untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Materi Pertama](#modul1)
-3. [Modul Materi Kedua](#modul2)
-4. [Modul Materi Ketiga](#modul3)
+2. [Modul Materi Pertama](https://github.com/AbelKristanto/course/tree/main/dqcamp2022/day-1)
+3. [Modul Materi Kedua](#)
+4. [Modul Materi Ketiga](#)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
