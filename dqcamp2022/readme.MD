@@ -21,14 +21,21 @@ Adapun tutorial dalam installasi jupyter notebook:
 
 1. Install Anaconda, jika sudah open as administrator
 2. Update pip dengan: 
+
 ```cmd
-python -m pip install --upgrade pip```
+python -m pip install --upgrade pip
+```
+
 4. Install jupyter notebook: 
+
 ```cmd
 python -m pip install jupyter
 ```
+
 5. Buka dengan mengetikan: 
+
 ```cmd
-jupyter notebook```
+jupyter notebook
+```
 
 Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/belajarbersamakohkris) dan pilih bagian New Notebook ya! &#9996
