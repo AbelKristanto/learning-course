@@ -1,4 +1,4 @@
-<h1>Modul Pertama</h1>
+<h1>Modul Hari Pertama</h1>
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/dqcamp2022/day-1/apa_itu_python.ipynb">Apa itu Python?</a></li>
