@@ -5,7 +5,7 @@
 <p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan dengan bahasa Python dan SQL untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Hari Pertama](https://github.com/AbelKristanto/course/tree/main/dqcamp2022/day-1)
+2. [Modul Hari Pertama](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/day-1/readme.MD)
 3. [Modul Hari Kedua](#)
 4. [Modul Hari Ketiga](#)
 5. [Modul Hari Keempat](#)
