@@ -2,12 +2,13 @@
 <!--Penulisan @abelkristanto-->
 
 <p>Hallo Semuanya, salam kenal, saya @abelkristanto. Disini kita akan belajar terkait topik materi yang python yang dapat bermanfaat untuk teman-teman pelajari.</p>
-<p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan dengan bahasa Python untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
+<p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan dengan bahasa Python dan SQL untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Materi Pertama](https://github.com/AbelKristanto/course/tree/main/dqcamp2022/day-1)
-3. [Modul Materi Kedua](#)
-4. [Modul Materi Ketiga](#)
+2. [Modul Hari Pertama](https://github.com/AbelKristanto/course/tree/main/dqcamp2022/day-1)
+3. [Modul Hari Kedua](#)
+4. [Modul Hari Ketiga](#)
+5. [Modul Hari Keempat](#)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
