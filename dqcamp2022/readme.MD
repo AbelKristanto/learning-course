@@ -22,8 +22,8 @@ Sebelum kamu memulai materi yang akan dikerjakan hari ini, diharapkan kamu menga
 
 Adapun tutorial dalam installasi jupyter notebook:
 
-1. Install Anaconda, jika sudah open as administrator
-2. Update pip dengan: 
+1. Install Anaconda, jika sudah klik Anancoda Prompt dibuka as administrator
+2. Ketikan berikut ini dihalaman prompt dengan update pip dengan: 
 
 ```cmd
 python -m pip install --upgrade pip
