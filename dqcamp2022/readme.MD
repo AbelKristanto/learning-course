@@ -43,3 +43,6 @@ jupyter notebook
 
 Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/belajarbersamakohkris) 
 <p>Pilih bagian New Notebook ya! &#9996</p>
+
+
+>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
