@@ -45,4 +45,4 @@ Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/be
 <p>Pilih bagian New Notebook ya! &#9996</p>
 
 
->**Penting!**\nKonten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
+>**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
