@@ -19,6 +19,7 @@ Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/ab
 </br>
 
 >**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
+
 [Kembali](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/readme.MD)
 
 
