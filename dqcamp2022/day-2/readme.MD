@@ -13,5 +13,9 @@
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
 
+</br>
+
+>**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
+
 [Kembali](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/readme.MD)
 
