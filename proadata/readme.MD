@@ -17,7 +17,7 @@ Sebelum kamu memulai materi yang akan dikerjakan hari ini, diharapkan kamu menga
 
 <i class="fas fa-spinner fa-spin"></i>
 
-Adapun tutorial dalam installasi jupyter notebook:
+Adapun tutorial dalam installasinya sebagai berikut:
 
 1. Install RStudio dengan membuka [disini](https://cran.rstudio.com/) dan pilih sesuai Operating System yang kamu gunakan
 2. Pilih sesuai pengaturan yang dibutuhkan
