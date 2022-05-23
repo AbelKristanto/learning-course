@@ -7,7 +7,6 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
 2. [Modul Hari Pertama](#)
 3. [Modul Hari Kedua](#)
-4. [Modul Hari Ketiga](#)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
