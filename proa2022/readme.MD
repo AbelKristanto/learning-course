@@ -7,8 +7,8 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 <p>Di hari yang indah ini ada dua bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan basic programming visualisasi R dan study case untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Hari Pertama](#)
-3. [Modul Hari Kedua](#)
+2. [Modul Hari Pertama](https://github.com/AbelKristanto/learning-course/blob/main/proa2022/day-1/readme.MD)
+3. [Modul Hari Kedua](https://github.com/AbelKristanto/learning-course/blob/main/proa2022/day-2/readme.MD)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
