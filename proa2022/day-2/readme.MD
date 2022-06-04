@@ -1,5 +1,7 @@
 <h1>Modul Hari Pertama</h1>
+
 >**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran PROA Kominfo. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.</br>
+
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
     <li><a href="#">Teori Praktik</a></li>
