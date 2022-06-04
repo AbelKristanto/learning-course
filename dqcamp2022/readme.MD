@@ -1,6 +1,8 @@
 <h1>Daftar Pustaka</h1>
 <!--Penulisan @abelkristanto-->
 
+>**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
+
 Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abelkristanto/). Disini kita akan belajar terkait topik materi yang python dan SQL yang dapat bermanfaat untuk teman-teman pelajari. Berikan feedbackmu disini [form](https://www.menti.com/hgda6343sd). Jika kamu membutuhkan request workshop atau kelas tambahan dari saya atau materi-materi yang saya ajarkan di event berbeda, silahkan konek dengan aku [disini](https://www.linkedin.com/in/abelkristanto/) atau juga boleh isi [link](https://forms.office.com/r/sTTzA65YGw) ini ya 
 <p>Di hari yang indah ini ada tiga bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan basic programming dan study case untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
@@ -45,5 +47,3 @@ Atau langkah lainnya akses link ini ya: [bit.ly/belajarbersamakohkris](bit.ly/be
 <p>Pilih bagian New Notebook ya! &#9996</p>
 
 </br>
-
->**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran DQCAMP. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
