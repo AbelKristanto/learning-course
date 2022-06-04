@@ -1,4 +1,4 @@
-<h1>Modul Hari Ketujuh</h1>
+<h1>Modul Hari Kesembilan</h1>
 
 >**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran FGA Kominfo. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.
 
@@ -11,4 +11,4 @@ Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/ab
 
 </br>
 
-[Kembali](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/readme.MD)
+[Kembali](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/readme.MD)
