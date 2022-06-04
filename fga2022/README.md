@@ -7,16 +7,16 @@ Hallo Semuanya, salam kenal, saya [@abelkristanto](https://www.instagram.com/abe
 <p>Di hari yang indah ini ada dua bahasan yang akan kita bahas, yang mana akan lebih banyak bersinggungan basic programming visualisasi R dan study case untuk melakukan pemahaman lebih dalam tentang bahasa tersebut.</p>
 
 1. [Profil Pengajar](https://id.linkedin.com/in/abelkristanto/)
-2. [Modul Hari Pertama](#)
-3. [Modul Hari Kedua](#)
-4. [Modul Hari Ketiga](#)
-5. [Modul Hari Keempat](#)
-6. [Modul Hari Kelima](#)
-7. [Modul Hari Keenam](#)
-8. [Modul Hari Ketujuh](#)
-9. [Modul Hari Kedelapan](#)
-10. [Modul Hari Kesembilan](#)
-11. [Modul Hari Kesepuluh](#)
+2. [Modul Hari Pertama](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-1/readme.MD)
+3. [Modul Hari Kedua](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-2/readme.MD)
+4. [Modul Hari Ketiga](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-3/readme.MD)
+5. [Modul Hari Keempat](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-4/readme.MD)
+6. [Modul Hari Kelima](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-5/readme.MD)
+7. [Modul Hari Keenam](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-6/readme.MD)
+8. [Modul Hari Ketujuh](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-7/readme.MD)
+9. [Modul Hari Kedelapan](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-8/readme.MD)
+10. [Modul Hari Kesembilan](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-9/readme.MD)
+11. [Modul Hari Kesepuluh](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-10/readme.MD)
 
 <p>Mari kita mulai dari bagian pertama ya! Persiapkan dirimu dan jika ada pertanyaan boleh <b>raise hand ya</b> &#9996</p>
 
