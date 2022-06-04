@@ -1,4 +1,4 @@
-<h1>Modul Hari Pertama</h1>
+<h1>Modul Hari Kedua</h1>
 
 >**Penting!**</br>Konten pelatihan ini yang digunakan hanya untuk kebutuhan pembelajaran PROA Kominfo. Diharapkan untuk tidak memproduksi kembali, memodifikasi, menyebarluaskan, atau mengeksploitasi konten ini dengan cara atau bentuk apapun tanpa persetujuan tertulis dari penulis.</br>
 
