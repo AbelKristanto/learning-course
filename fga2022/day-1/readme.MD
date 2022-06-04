@@ -19,4 +19,4 @@ Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/ab
 
 </br>
 
-[Kembali](https://github.com/AbelKristanto/learning-course/blob/main/dqcamp2022/readme.MD)
+[Kembali](https://github.com/AbelKristanto/learning-course/blob/main/fga2022/README.md)
