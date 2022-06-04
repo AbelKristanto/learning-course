@@ -4,7 +4,7 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Teori Praktik</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/proa2022/day-2/ClusteringAnalysis.pdf">Teori Praktik</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/fe0437ce3e1c47eedfa9fe2cc85efe8b2d911422/proa2022/day-2/day2proa-pendahuluan.ipynb">Praktik: Pendahuluan</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/fe0437ce3e1c47eedfa9fe2cc85efe8b2d911422/proa2022/day-2/day2proa-persiapandata.ipynb">Praktik: Persiapan Data</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/fe0437ce3e1c47eedfa9fe2cc85efe8b2d911422/proa2022/day-2/day2proa-clusternkmeans.ipynb">Praktik: Pembuatan Cluster K-means</a></li>
