@@ -5,11 +5,14 @@
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
     <li><a href="#">Handbook</a></li>
-    <li><a href="#">SQL</a></li>
-    <li><a href="#">Sistem Database Relasional</a></li>
-    <li><a href="#">Penggunaan Perintah SELECT</a></li>
-    <li><a href="#">Prefix dan Alias</a></li>
-    <li><a href="#">Menggunakan Filter</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Structured_Query_Language.ipynb">SQL</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Sistem_Database_Relasional.ipynb">Sistem Database Relasional</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Penggunaan_Perintah_SELECT_FROM.ipynb">Penggunaan Perintah SELECT</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Prefix_dan_Alias.ipynb">Prefix dan Alias</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Menggunakan_Filter.ipynb">Menggunakan Filter</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Fungsi_di_SQL.ipynb">Fungsi di SQL</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Fungsi_Text_di_SQL.ipynb">Fungsi Text di SQL</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Fungsi_Aggregate_dan_Group_By.ipynb">Fungsi Group By</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
