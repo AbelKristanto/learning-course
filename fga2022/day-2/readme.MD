@@ -4,7 +4,7 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Handbook</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-2/ppt-day2.pdf">Handbook</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Structured_Query_Language.ipynb">SQL</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Sistem_Database_Relasional.ipynb">Sistem Database Relasional</a></li>
     <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-2/Penggunaan_Perintah_SELECT_FROM.ipynb">Penggunaan Perintah SELECT</a></li>
