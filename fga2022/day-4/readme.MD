@@ -5,9 +5,6 @@
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
     <li><a href="#">Handbook</a></li>
-    <li><a href="#">Fungsi SQL</a></li>
-    <li><a href="#">Fungsi Text di SQL</a></li>
-    <li><a href="#">Fungsi Aggregate dan Group By</a></li>
     <li><a href="#">Penggabungan Tabel dari Relasi Kolom</a></li>
     <li><a href="#">INNER JOIN</a></li>
     <li><a href="#">UNION</a></li>
