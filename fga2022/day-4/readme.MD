@@ -4,10 +4,10 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Handbook</a></li>
-    <li><a href="#">Penggabungan Tabel dari Relasi Kolom</a></li>
-    <li><a href="#">INNER JOIN</a></li>
-    <li><a href="#">UNION</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-4/Day-4.pdf">Handbook</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-4/Penggabungan_Tabel_dari_Relasi_Kolom.ipynb">Penggabungan Tabel dari Relasi Kolom</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-4/INNER_JOIN.ipynb">INNER JOIN</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-4/Union.ipynb">UNION</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
