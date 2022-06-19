@@ -4,7 +4,8 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Handbook</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-6/Day-6.pdf">Handbook</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/a1b3e74d59d3320010f40b0d9b117d559b7b8394/fga2022/day-6/task_recap_day6.ipynb">Challenge</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
