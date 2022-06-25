@@ -4,13 +4,13 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Handbook</a></li>
-    <li><a href="#">Introduction</a></li>
-    <li><a href="#">Data yang digunakan</a></li>
-    <li><a href="#">Validitas</a></li>
-    <li><a href="#">Missing Values</a></li>
-    <li><a href="#">Outlier</a></li>
-    <li><a href="#">Standarisasi Nilai</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/Day-8.pdf">Handbook</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/pendahuluan.ipynb">Introduction</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/persiapan.ipynb">Data yang digunakan</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/validitas.ipynb">Validitas</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/missingvalue.ipynb">Missing Values</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/outlier.ipynb">Outlier</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/742e3870e4ee784e5e07f6b1bb05abe74293bca7/fga2022/day-8/standarisasi.ipynb">Standarisasi Nilai</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
