@@ -4,7 +4,8 @@
 
 <p>Di modul ini kita akan membahas tentang berikut ini</p>
 <ol>
-    <li><a href="#">Handbook</a></li>
+    <li><a href="https://github.com/AbelKristanto/learning-course/blob/main/fga2022/day-10/Day-10.pdf">Handbook</a></li>
+    <li><a href="https://nbviewer.org/github/AbelKristanto/learning-course/blob/main/fga2022/day-10/capstoneprojectcase.ipynb">Study Case</a></li>
 </ol>
 
 Jika ada pertanyaan silahkan kirim kontak [kesini](https://id.linkedin.com/in/abelkristanto/in). Untuk mempermudah pembelajaranmu, silahkan download dokumen .ipynb dengan simbol download di pojok kanan ya!
